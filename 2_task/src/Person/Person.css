@@ -4,7 +4,7 @@
     display: inline-block;
     padding: 1rem;
     border-radius: 5px;
-    box-shadow: 00 5px #f4f4f4;
+    box-shadow: 0 0 5px #f4f4f4;
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.5;
 }
