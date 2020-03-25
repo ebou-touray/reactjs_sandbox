@@ -1,9 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 
-function Welcome(props) {
-return <h1>Hello World, {props.name}</h1>;
-}
+const App = () => {
+  
+    return (
+   <div>
+      <h1> Hello, World!</h1>
+       <p>Hello, World!</p>
+   </div>
 
+    );
+};
+export default App;
