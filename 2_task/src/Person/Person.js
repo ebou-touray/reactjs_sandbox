@@ -1,11 +1,12 @@
 import React from 'react';
+import './Person.css';
 
-function Person(props) {
-  return (
-    <div className="box">
-      <h1>{props.name}</h1>
-      <p>Title: {props.title}</p>
-      <p>Age:{props.age}</p>
-    </div>
-  );
-}
+const Person = () => {
+    return (
+      <div className="card">
+        <p>Hello, my name is Ebou and I am 40 years old.</p>
+      </div>
+    );
+};
+
+export default Person;
