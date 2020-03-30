@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+SCreenshot
+Likes Counter App
+https://user-images.githubusercontent.com/60345712/77948950-dd4f1b80-72ce-11ea-8d05-e3ea76b18558.png
+
 ## Available Scripts
 
 In the project directory, you can run:
