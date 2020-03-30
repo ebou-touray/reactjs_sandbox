@@ -1,12 +1,14 @@
 .likes {
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
-  box-shadow:  0 0 5px rgb(133, 133, 133);
-  padding: 1rem;
+  box-shadow: 0 0 5px rgb(133, 133, 133);
+  padding: 2rem;
   display: grid;
   justify-content: center;
   align-items: center;
+  margin: 0 auto;
+  background-color: tomato;
 }
 
 .even {
@@ -14,4 +16,14 @@
 }
 .odd {
   background-color: red;
+}
+button {
+  background: #e3ab42;
+  margin-right: 20px;
+  border-radius: 5px;
+  margin-left: 2rem;
+}
+main {
+  height: 350px;
+  background: linear-gradient(#159957, #155799);
 }

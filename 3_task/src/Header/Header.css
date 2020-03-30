@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    background: #404241;
+    height: 3rem;
+    color: white;
+    padding:1.5rem;
+    flex-direction: row;
+}
+#counter{
+    flex: 4;
+    padding-bottom: 0.5rem;
+}
+#date{
+    flex: 1;
+    
+}
