@@ -1,8 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
-import Header from './Header/Header';
-import Footer from './Footer/Footer';
-
+import Header from './Header/Header';//importing Header.js component from Heade folder
+import Footer from './Footer/Footer';//importing Footer.js comp
 
 class App extends Component {
   state = {

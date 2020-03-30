@@ -19,11 +19,16 @@
 }
 button {
   background: #e3ab42;
-  margin-right: 20px;
+  display: inline-block;
+  margin: 1rem;
+  height: 30px;
+
   border-radius: 5px;
-  margin-left: 2rem;
+  align-items: center;
 }
 main {
+  padding: 2rem;
   height: 350px;
+  text-align: center;
   background: linear-gradient(#159957, #155799);
 }
