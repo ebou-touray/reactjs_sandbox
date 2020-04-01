@@ -13,7 +13,6 @@ class App extends Component {
       {name: 'Amie' , age: 32}
     ]
   };
-
   render() {
     return (
       <div>
@@ -28,5 +27,4 @@ class App extends Component {
     );
   }
 }
-
 export default App;
