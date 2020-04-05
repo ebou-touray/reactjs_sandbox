@@ -1,0 +1,18 @@
+.form-group {
+  background: skyblue;
+  margin-left: 100px;
+  padding: 2rem;
+  color: white;
+
+  width: 400px;
+}
+.form-row {
+  display: flex;
+  padding: 5px ;
+}
+
+.form-row input {
+  flex: 1;
+
+  
+}
