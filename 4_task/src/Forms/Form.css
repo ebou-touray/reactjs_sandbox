@@ -1,18 +1,25 @@
-.form-group {
-  background: skyblue;
-  margin-left: 100px;
-  padding: 2rem;
+.form {
+  background: #6603fc;
   color: white;
-
-  width: 400px;
 }
-.form-row {
-  display: flex;
-  padding: 5px ;
+form {
+  padding: 2rem;
+}
+label {
+  width: 200px;
+  display: inline-block;
 }
 
-.form-row input {
-  flex: 1;
+form div {
+  margin: 1rem;
+}
 
-  
+input,
+textarea {
+  background: #f4f4f4;
+  border: 1px solid #6603fc;
+  width: 250px;
+  padding: 0.8rem;
+  border-radius: 5px;
+  font-size: 0.9rem;
 }
