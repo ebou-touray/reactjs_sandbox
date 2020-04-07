@@ -1,0 +1,25 @@
+
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: #efefef;
+  box-shadow: 0 0 4px #333;
+  display: inline-block;
+  margin: 20px;
+ 
+}
+
+.circle.active {
+  box-shadow: inset 0px 5px rgba(0, 0, 1);
+  background: black;
+}
+
+button {
+  height: 40px;
+  margin: 2rem;
+  background:#e3bf0e;
+  text-align: center;
+  padding: 0.7rem;
+  
+}
