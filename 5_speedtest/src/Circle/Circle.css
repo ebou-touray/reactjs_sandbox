@@ -1,13 +1,13 @@
 
 .circle {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   background: #efefef;
   box-shadow: 0 0 4px #333;
   display: inline-block;
   margin: 20px;
- 
+  align-items: center; 
 }
 
 .circle.active {
@@ -16,10 +16,16 @@
 }
 
 button {
-  height: 40px;
+  height: 50px;
+  width: 150px;
   margin: 2rem;
-  background:#e3bf0e;
-  text-align: center;
+  border-radius: 5px;
+  background: #e3bf0e;
   padding: 0.7rem;
+  font-family: 'Righteous', cursive;
+  font-size: 20px;
   
+}
+.circle.active{
+  background-image: url("/assets/monkey.jpg");
 }

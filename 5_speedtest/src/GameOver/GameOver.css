@@ -1,0 +1,39 @@
+.overlay {
+    background:blue;
+    height: 100%;
+   
+    width: 100%;
+    position: fixed;
+    display: grid;
+    top: 0;
+    left: 0;
+    
+    justify-items: center;
+    align-items: center;
+
+}
+
+.gameoverbox{
+    background:white;
+    padding: 1rem;
+    width: 40%;
+    min-height: 25%;
+    border-radius: 5px;
+    position: relative;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+
+}
+
+.gameover span {
+    font-size: 2rem;
+}
+
+.gameoverbox button{
+    background: lightgray;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
