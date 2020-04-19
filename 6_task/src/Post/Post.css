@@ -1,0 +1,21 @@
+.posts{
+    display: grid;
+    align-items: flex-start;
+    grid-template-columns:  repeat(3, 1fr);
+    grid-gap: 1rem;
+    margin: 1 rem;
+
+
+}
+.post{
+    background: cornsilk;
+    border-radius:  5px;
+    box-shadow:  0 0 20px #787878;
+    border: 10px solid #f4f4f4;
+    width: 300px
+}
+
+img {
+    height: 250px;
+    width: 300px
+}
