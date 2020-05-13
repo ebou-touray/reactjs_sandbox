@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import "./Blog.css";
 import axios from "axios";
 
 import PostCard from "../PostCard/PostCard";
