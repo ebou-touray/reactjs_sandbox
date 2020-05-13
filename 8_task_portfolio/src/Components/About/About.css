@@ -1,6 +1,7 @@
 .container {
     display: flex;
     padding: 100px;
+  
 }
 
 .desc {
@@ -8,9 +9,11 @@
     border: 1px solid black;
     padding: 1rem;
     border-radius: 5px;
+  
 }
 
 .photo {
     flex:1;
     padding: 20px;
 }
+

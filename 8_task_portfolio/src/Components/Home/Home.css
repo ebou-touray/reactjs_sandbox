@@ -1,6 +1,5 @@
-body {
-     background-color: #dee2eb;
-}
+body{
+  background-color:#254558;}
 
 .welcomePage {
   position: absolute;
@@ -10,5 +9,7 @@ body {
   top: 50%;
   left: 50%;
   margin: -100px 0 0 -150px;
+
+  
 
 }
