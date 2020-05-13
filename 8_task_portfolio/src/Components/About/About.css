@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    padding: 100px;
+}
+
+.desc {
+    flex: 2;
+}
+
+.photo {
+    flex:1;
+    padding: 20px;
+}
