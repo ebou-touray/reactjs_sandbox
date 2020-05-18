@@ -19,25 +19,15 @@
     },
     {
       "title": "Birds",
-      "desc": "There are over 300 bird species in The Gambia. This makes the Gambia a major destination for bird watches from all over the world.",
+      "desc": "There are over 300 bird species in The Gambia. ",
       "img": "https://source.unsplash.com/1600x900/?bird\"",
       "id": 4
     },
     {
       "title": "Monkey",
-      "desc": "",
-      "img": "\"https://source.unsplash.com/1600x900/?monkey\"",
+      "desc": "Buuterflies like flowers. That's they can seen on flowers",
+      "img": "\"https://source.unsplash.com/1600x900/?butterflies\"",
       "id": 5
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

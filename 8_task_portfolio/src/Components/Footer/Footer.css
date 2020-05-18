@@ -1,0 +1,14 @@
+.footer {
+  padding-top: 3rem;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  background-color: #cfcfcf;
+ color:black;
+  /* position:absolute;
+left:0;
+bottom:0;
+right:0;
+ background-color: #cfcfcf; */
+  
+}

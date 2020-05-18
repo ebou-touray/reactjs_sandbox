@@ -1,5 +1,6 @@
 import React from "react";
 import "./About.css";
+import ebou1 from "../Image/ebou1.jpg";
 
 import Image from "./Image/Image.jpg";
 
@@ -7,7 +8,7 @@ const About = () => {
   return (
     <div className="container">
       <div className="photo">
-        <img src={Image} alt="ebout" />
+        <img src={ebou1} alt="ebout" />
       </div>
       <div class="shadow p-3 mb-5 bg-white rounded">
         <div className="desc">

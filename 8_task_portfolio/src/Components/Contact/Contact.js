@@ -15,7 +15,7 @@ const Contact = () => {
       <MDBRow>
         <MDBCol md="6">
           <form>
-            <p className="h5 text-center mb-4">Write to me</p>
+            <p className="h5 text-center mb-4">Contact me</p>
             <div className="grey-text">
               <MDBInput
                 label="Your name"
